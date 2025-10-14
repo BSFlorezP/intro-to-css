@@ -1,0 +1,21 @@
+/* Estilo CSS Clase 02 id selectores */
+
+.first{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+
+.font-size{
+    font-size: 24px;
+}
+
+#text-blue{
+    color: blue;
+    font-size: 36px;
+}
+
+#bg-green{
+    background-color: greenyellow;
+    font-weight: bold;
+}
